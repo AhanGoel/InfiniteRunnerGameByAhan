@@ -1,1 +1,1 @@
-# Climate-Game-by-Bhavin-Ahan-and-Shabd
+Infinite runner game by Ahan
